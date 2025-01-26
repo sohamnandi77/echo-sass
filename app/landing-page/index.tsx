@@ -1,15 +1,13 @@
-import PricingSection from './pricing-section';
-import Hero from './hero';
-import FeaturesSection from './features-section';
+import FeaturesSection from "./features-section";
+import Hero from "./hero";
 
 const LandingPage = () => {
   return (
     <div>
       <Hero />
       <FeaturesSection />
-      <PricingSection />
     </div>
   );
-}
+};
 
 export default LandingPage;
