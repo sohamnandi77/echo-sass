@@ -14,7 +14,7 @@ const Hero = () => {
               Collect your feedback seamlessly
             </h1>
             <p className="text-gray-500 texl-lg">
-              Easily integrate Nexx and start collecting feedback today.
+              Easily integrate Echo and start collecting feedback today.
             </p>
           </div>
           <div>

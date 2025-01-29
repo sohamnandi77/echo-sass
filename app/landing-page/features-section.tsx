@@ -7,7 +7,7 @@ const features = [
   },
   {
     title: "Customizable",
-    description: "Customize Nexx to fit your needs and preferences.",
+    description: "Customize Echo to fit your needs and preferences.",
     icon: "icon-2",
   },
   {
@@ -16,11 +16,11 @@ const features = [
   },
   {
     title: "Secure",
-    description: "Your data is safe and secure with Nexx.",
+    description: "Your data is safe and secure with Echo.",
   },
   {
     title: "Scalable",
-    description: "Grow your business with Nexx as you scale.",
+    description: "Grow your business with Echo as you scale.",
   },
   {
     title: "Fast Support",
