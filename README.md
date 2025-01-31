@@ -2,6 +2,8 @@
 
 Echo is a powerful, pluggable feedback widget designed to seamlessly integrate into any web application. Built with **Next.js**, **Tailwind CSS**, **Supabase**, **Drizzle**, and **shadcn**, Echo allows you to collect user feedback effortlessly. Whether you're looking to improve your product or engage with your users, Echo makes it simple and efficient.
 
+> **Note:** Echo uses the [Echo Widget](https://github.com/sohamnandi77/echo-widget) for the feedback interface. The widget is maintained in a separate repository to ensure modularity and easy integration.
+
 ---
 
 ## Features
